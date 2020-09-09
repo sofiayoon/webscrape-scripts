@@ -1,5 +1,5 @@
 # webscrape-scripts
-Simple Python Web Scraping Scripts for Practice!
+Simple Python Web Scraping Scripts for Practice
 
 I use Python and Beautiful Soup for some simple web scraping!
 
